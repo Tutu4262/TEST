@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://guokeyiecon.com/</id>
+    <title>Keyi Guo</title>
+    <updated>2020-10-27T18:14:45.692Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://guokeyiecon.com/"/>
+    <link rel="self" href="https://guokeyiecon.com/atom.xml"/>
+    <subtitle>Welcome to my website. I&apos;m applying for a PhD program.</subtitle>
+    <logo>https://guokeyiecon.com/images/avatar.png</logo>
+    <icon>https://guokeyiecon.com/favicon.ico</icon>
+    <rights>All rights reserved 2020, Keyi Guo</rights>
+    <entry>
+        <title type="html"><![CDATA[CV]]></title>
+        <id>https://guokeyiecon.com/post/cv/</id>
+        <link href="https://guokeyiecon.com/post/cv/">
+        </link>
+        <updated>2020-10-27T18:13:21.000Z</updated>
+        <content type="html"><![CDATA[<p>Keyi Guo</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Contact Information]]></title>
+        <id>https://guokeyiecon.com/post/hello-gridea/</id>
+        <link href="https://guokeyiecon.com/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>Department of Economics,<br>
+Chinese University of Hong Kong</p>
+<p>Tel: 852-97989184<br>
+Email: keyiguo@link.cuhk.edu.hk<br>
+​<br>
+Address:<br>
+Department of Economics<br>
+Esther Lee Building<br>
+Chinese University of Hong Kong<br>
+Shatin,<br>
+Hong Kong</p>
+]]></content>
+    </entry>
+</feed>
