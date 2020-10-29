@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Tutu4262.github.io</id>
     <title>Keyi Guo</title>
-    <updated>2020-10-28T02:49:27.938Z</updated>
+    <updated>2020-10-29T15:16:58.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Tutu4262.github.io"/>
     <link rel="self" href="https://Tutu4262.github.io/atom.xml"/>
@@ -11,29 +11,11 @@
     <icon>https://Tutu4262.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Keyi Guo</rights>
     <entry>
-        <title type="html"><![CDATA[Writing Sample]]></title>
-        <id>https://Tutu4262.github.io/post/writing-sample/</id>
-        <link href="https://Tutu4262.github.io/post/writing-sample/">
-        </link>
-        <updated>2020-10-27T18:16:01.000Z</updated>
-        <content type="html"><![CDATA[<p>Abstract</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CV]]></title>
-        <id>https://Tutu4262.github.io/post/cv/</id>
-        <link href="https://Tutu4262.github.io/post/cv/">
-        </link>
-        <updated>2020-10-27T18:13:21.000Z</updated>
-        <content type="html"><![CDATA[<p>Keyi Guo</p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Contact Information]]></title>
         <id>https://Tutu4262.github.io/post/hello-gridea/</id>
         <link href="https://Tutu4262.github.io/post/hello-gridea/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
+        <updated>2020-12-03T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>Department of Economics,<br>
 Chinese University of Hong Kong</p>
 <p>Tel: 852-97989184<br>
@@ -45,6 +27,64 @@ Esther Lee Building<br>
 The Chinese University of Hong Kong<br>
 Shatin,<br>
 Hong Kong</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing Sample]]></title>
+        <id>https://Tutu4262.github.io/post/writing-sample/</id>
+        <link href="https://Tutu4262.github.io/post/writing-sample/">
+        </link>
+        <updated>2020-10-27T18:16:01.000Z</updated>
+        <content type="html"><![CDATA[<p>Abstract</p>
+<p>In the digital age, internet becomes a rich source of information and maintains network of human social contact. Existing research linking internet usage and teenagers’ cognition outcome focus on the direct exposure of internet users rather than the impact through guardian. In this paper, we use micro data from CFPS to examines the effects of guardian’s choice of using internet on teenager’s cognition achievement. CFPS surveys have been conducted every twice a year since 2010, and it contains a rich set of variables on personal information, parental background, and cognition outcome which allows us to use panel data analysis to identify the causal effect. We find that guardian’s internet usage has a sizable and significant positive effect on teenager’s cognition achievement measured by test scores. Further explore of mechanism shows that both direct channel like learning resources and indirect channel like parental environment are improved for internet using guardian. Heterogeneous analysis shows that the impact is stronger for guardian in rural areas with low education level. The result suggests that promoting internet for the less educated family in rural region can potentially make up the negative background and decrease inequality transmitted across generation.</p>
+<p>Introduction</p>
+<p>Cognition refers to the capability of analyzing information, solving problems, and making  decisions.   It  measures  the  variation  of  human  capital  and  is strongly  related  toeducation attainment (Jencks et al., 1972; Zagorsky, 2007; Bourne et al., 2018) and latelabor outcome (Thienpont and Verleye, 2004); Heckman et al., 2005).  Better cognitionperformance  reduces  school  dropout  rate  (Belley  and  Lochner,  2007;  Korenman  andWinship,  2000),  lowers  participation  in  crime  (Frisell  et  al.,  2012;  Tittle  et  al.,  2003)and increases wage payment (Thienpont and Verleye, 2004).  From macro perspective,national cognition level is highly related to economic performance.  Hanushek and Kimko(2000) studied the math and science test scores of 31 countries and found that nationalcognition improvements positively affect annual real GDP growth.  China ranks highlyon cognition performance, from the perspective of national IQ index, Chinese ranks thesecond highest among the th</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keyi GUO]]></title>
+        <id>https://Tutu4262.github.io/post/cv/</id>
+        <link href="https://Tutu4262.github.io/post/cv/">
+        </link>
+        <updated>2020-10-27T18:13:21.000Z</updated>
+        <content type="html"><![CDATA[<p>Contact Information<br>
+Department of Economics                                 Phone: (852) 97989184<br>
+Esther Lee Building                                          Email: kguo6264@gmail.com<br>
+The Chinese University of Hong Kong                 Website: https://guokeyiecon.com<br>
+Shatin, HKSAR                                                 Skype: 85297989184</p>
+<p>Fields of Interest<br>
+Applied Microeconomics: Labour Economics, Development Economics, Economic History,<br>
+Environmental Economics</p>
+<p>Education<br>
+The Chinese University of Hong Kong, Shatin, Hong Kong<br>
+Master of Philosophy in Economics, GPA: 3.891/4                 Sept. 2019 - Jun. 2021<br>
+• Advisor: Naijia Guo<br>
+Master of Science in Economics, GPA 3.78/4                      Sept. 2018 - Jun. 2019<br>
+• Dean’s List Certificate, 2018/2019; Excellent Performance Award, 2018/2019<br>
+Shandong University, Jinan, China<br>
+Bachelor of Art in Finance, GPA 87.64/100                       Sept. 2014 - Jun. 2018<br>
+• Relative Coursework: Econometrics, Calculus, Linear Algebra, Python Programming, Labor Economics, Industrial Organization, Statistics<br>
+University of Wisconsin Madison, Madison, USA<br>
+Exchange Program, GPA: 3.885/4                                  Sept. 2016 - Dec. 2016</p>
+<p>Research Experience<br>
+Coauthor with Guangsu Zhou Nov. 2019 - Present<br>
+• The Paper use micro data from China Family Panel Studies (CFPS) to examine the effects of<br>
+guardian’s internet usage on teenager’s cognitive skills.<br>
+• Individual fixed effect model and instrumental variable model were applied to identify the causal<br>
+effect.<br>
+Student Helper of Ying Bai Sept. 2018 - Nov. 2018<br>
+• Collected data on territory capitals worldwide. Collected data on city mayors in China.<br>
+Research Assistant of Chicheng Ma Mar. 2018 - Jul. 2018<br>
+• Read history document \Chinese Historical Geography Rebuilt by Jiaqing&quot;.<br>
+• Collected data on Chaste women in Sichuan and Guizhou area.<br>
+Research Assistant of Chunkai Wang Jun. 2017 - Jul. 2017<br>
+• Wrote an article about impacts of FTA on trade relationship between China and Australia.<br>
+• The article was collected by China Council for the Promotion of International Trade</p>
+<p>Teaching Assistant<br>
+Game Theory (ECON 3160), CUHK; Economy of China (ECON 3310), CUHK<br>
+Holding office hours. Grading assignments, midterm exam and final report</p>
+<p>Computer Skills<br>
+Stata, R; some experience with Matlab, Python</p>
 ]]></content>
     </entry>
 </feed>
